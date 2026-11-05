@@ -6,17 +6,31 @@ body {
   font-weight: bolder;
   font-size: 20px;
   background-color: rgb(221, 38, 31);
+    text-align: center;
 }
 .destacado {
   font-family: cursive;
   font-weight: bold;
   font-size: 30px;
+  text-align: center;
 }
-.titulo{
+.titulo {
   font-family: cursive;
   font-weight: bold;
   color: rgba(12, 0, 0, 0.541);
   font-size: 45px;
   text-align: center;
   background-color: yellow;
+}
+.control {
+  font-size: 35px;
+  text-align: center;
+  background-color: rgba(255, 196, 0, 0.541);
+}
+#controles {
+  display: flex;
+  gap: 25px;
+  justify-content: center;
+  align-items: center;
+  height: 90px;
 }
