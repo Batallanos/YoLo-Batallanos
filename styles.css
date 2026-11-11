@@ -5,27 +5,28 @@ body {
   font-family: sans-serif;
   font-weight: bolder;
   font-size: 20px;
-  background-color: rgb(221, 38, 31);
-    text-align: center;
+  background-color: rgb(8, 10, 122);
+  text-align: center;
+  border: 2px solid #25bdeb;
 }
 .destacado {
   font-family: cursive;
   font-weight: bold;
   font-size: 30px;
   text-align: center;
+  border: 5px solid #251531;
+  margin: 25px;
+  background-color: #7f00e7;
 }
 .titulo {
   font-family: cursive;
   font-weight: bold;
-  color: rgba(12, 0, 0, 0.541);
+  color: rgb(0, 0, 0);
   font-size: 45px;
   text-align: center;
-  background-color: yellow;
-}
-.control {
-  font-size: 35px;
-  text-align: center;
-  background-color: rgba(255, 196, 0, 0.541);
+  background-color: rgb(0, 110, 255);
+  border: 5px solid #b5e700;
+  margin: 50px;
 }
 #controles {
   display: flex;
