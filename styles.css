@@ -17,6 +17,8 @@ body {
   border: 5px solid #251531;
   margin: 25px;
   background-color: #7f00e7;
+  width: 350px;
+  margin-left: 480px;
 }
 .titulo {
   font-family: cursive;
